@@ -41,5 +41,5 @@ let adLink = 'https://www.zeroasso.top';
 document.getElementsByTagName("title")[0].innerText = '合成小北岚';
 
 // 开启选分弹窗：将 false 改为 true
-let selectModal = true;
+let selectModal = false;
 
